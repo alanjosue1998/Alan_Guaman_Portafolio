@@ -218,14 +218,14 @@ body{
 .seccion .h2{
     font-family: var(--tipo--titular);
     font-weight: 600;
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1em;
     color:var(--blanco);
     
 }
 .seccion .h3{
     font-family: var(--tipo--titular);
-    font-size: 4.5em;
+    font-size: 4em;
     font-style: italic;
 }
 
